@@ -1,0 +1,28 @@
+ru/myitschool/galaxytennis/GalButton.java
+ ru.myitschool.galaxytennis.GalButton
+ru/myitschool/galaxytennis/Coefficient.java
+ ru.myitschool.galaxytennis.Coefficient
+ru/myitschool/galaxytennis/ScreenMenu.java
+ ru.myitschool.galaxytennis.ScreenMenu
+ru/myitschool/galaxytennis/ScreenGalaxies.java
+ ru.myitschool.galaxytennis.ScreenGalaxies
+ru/myitschool/galaxytennis/ScreenOptions.java
+ ru.myitschool.galaxytennis.ScreenOptions
+ru/myitschool/galaxytennis/GalImage.java
+ ru.myitschool.galaxytennis.GalImage
+ru/myitschool/galaxytennis/ScreenPlates.java
+ ru.myitschool.galaxytennis.ScreenPlates
+ru/myitschool/galaxytennis/ScreenPlanets.java
+ ru.myitschool.galaxytennis.ScreenPlanets
+ru/myitschool/galaxytennis/Planet.java
+ ru.myitschool.galaxytennis.Planet
+ru/myitschool/galaxytennis/ScreenVictory.java
+ ru.myitschool.galaxytennis.ScreenVictory
+ru/myitschool/galaxytennis/ScreenGame.java
+ ru.myitschool.galaxytennis.ScreenGame
+ru/myitschool/galaxytennis/GTennis.java
+ ru.myitschool.galaxytennis.GTennis
+ru/myitschool/galaxytennis/Galaxy.java
+ ru.myitschool.galaxytennis.Galaxy
+ru/myitschool/galaxytennis/Ufo.java
+ ru.myitschool.galaxytennis.Ufo
